@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Parser", "Parser\Parser.vcproj", "{95697C86-FDD5-4230-A085-95FD89CDA86C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{70EFFFAF-F0EF-48BB-8EEC-6F758A0644FD}"
+EndProject
+Global
+	GlobalSection(MercurialSourceControlSolutionProperties) = preSolution
+		SolutionIsControlled = True
+		SolutionBindings = <Solution Location In Database>
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95697C86-FDD5-4230-A085-95FD89CDA86C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{95697C86-FDD5-4230-A085-95FD89CDA86C}.Debug|Win32.Build.0 = Debug|Win32
+		{95697C86-FDD5-4230-A085-95FD89CDA86C}.Release|Win32.ActiveCfg = Release|Win32
+		{95697C86-FDD5-4230-A085-95FD89CDA86C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
